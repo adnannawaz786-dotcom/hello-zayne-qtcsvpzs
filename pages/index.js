@@ -1,5 +1,5 @@
-import { Card, CardContent } from '@/components/ui/card';
-import Layout from '@/components/Layout';
+import { Card, CardContent } from './components/ui/card';
+import Layout from './components/Layout';
 
 export default function Home() {
   return (
